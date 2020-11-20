@@ -1,0 +1,12 @@
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\rabee\source\repos\TrainingApp\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

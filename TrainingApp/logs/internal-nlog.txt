@@ -1,0 +1,95 @@
+2020-11-20 13:34:16.8342 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 13:34:16.8436 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 13:34:17.0715 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 13:34:17.0715 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 13:34:17.0715 Info Message Template Auto Format enabled
+2020-11-20 13:34:17.1087 Info Adding target FileTarget(Name=allfile)
+2020-11-20 13:34:17.1247 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 13:37:36.8386 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 13:37:36.8463 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 13:37:36.8463 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 13:37:36.8463 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 13:37:36.8463 Info Message Template Auto Format enabled
+2020-11-20 13:37:36.8851 Info Adding target FileTarget(Name=allfile)
+2020-11-20 13:37:36.8988 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 13:38:27.2000 Info AppDomain Shutting down. Logger closing...
+2020-11-20 13:38:27.2166 Info Logger has been shut down.
+2020-11-20 13:38:36.1781 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 13:38:36.1781 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 13:38:36.1953 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 13:38:36.1953 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 13:38:36.1953 Info Message Template Auto Format enabled
+2020-11-20 13:38:36.2263 Info Adding target FileTarget(Name=allfile)
+2020-11-20 13:38:36.2418 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 15:18:42.8911 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 15:18:42.8911 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 15:18:42.8911 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 15:18:42.8911 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 15:18:42.8911 Info Message Template Auto Format enabled
+2020-11-20 15:18:42.9289 Info Adding target FileTarget(Name=allfile)
+2020-11-20 15:18:42.9439 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 15:18:43.3421 Info AppDomain Shutting down. Logger closing...
+2020-11-20 15:18:43.3518 Info Logger has been shut down.
+2020-11-20 15:19:49.1019 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 15:19:49.1019 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 15:19:49.1019 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 15:19:49.1019 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 15:19:49.1084 Info Message Template Auto Format enabled
+2020-11-20 15:19:49.1355 Info Adding target FileTarget(Name=allfile)
+2020-11-20 15:19:49.1485 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 15:19:49.2044 Info AppDomain Shutting down. Logger closing...
+2020-11-20 15:19:49.2044 Info Logger has been shut down.
+2020-11-20 16:20:50.0360 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:20:50.0360 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:20:50.0360 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 16:20:50.0360 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 16:20:50.0470 Info Message Template Auto Format enabled
+2020-11-20 16:20:50.0771 Info Adding target FileTarget(Name=allfile)
+2020-11-20 16:20:50.0919 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 16:20:50.1824 Info AppDomain Shutting down. Logger closing...
+2020-11-20 16:20:50.1927 Info Logger has been shut down.
+2020-11-20 16:25:31.8202 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:25:31.8202 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:25:31.8202 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 16:25:31.8202 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 16:25:31.8269 Info Message Template Auto Format enabled
+2020-11-20 16:25:31.8542 Info Adding target FileTarget(Name=allfile)
+2020-11-20 16:25:31.8680 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 16:25:33.2948 Info AppDomain Shutting down. Logger closing...
+2020-11-20 16:25:33.3028 Info Logger has been shut down.
+2020-11-20 16:28:32.7941 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:28:32.7941 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:28:32.7988 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 16:28:32.7988 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 16:28:32.7988 Info Message Template Auto Format enabled
+2020-11-20 16:28:32.8282 Info Adding target FileTarget(Name=allfile)
+2020-11-20 16:28:32.8282 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 16:28:35.5416 Info AppDomain Shutting down. Logger closing...
+2020-11-20 16:28:35.5822 Info Logger has been shut down.
+2020-11-20 16:30:02.5994 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:30:02.5994 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:30:02.5994 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 16:30:02.5994 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 16:30:02.5994 Info Message Template Auto Format enabled
+2020-11-20 16:30:02.6332 Info Adding target FileTarget(Name=allfile)
+2020-11-20 16:30:02.6469 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 16:30:05.2462 Info AppDomain Shutting down. Logger closing...
+2020-11-20 16:30:05.2544 Info Logger has been shut down.
+2020-11-20 16:30:36.4313 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:30:36.4313 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:30:36.4313 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 16:30:36.4368 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 16:30:36.4368 Info Message Template Auto Format enabled
+2020-11-20 16:30:36.4651 Info Adding target FileTarget(Name=allfile)
+2020-11-20 16:30:36.4789 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 16:30:37.1867 Info AppDomain Shutting down. Logger closing...
+2020-11-20 16:30:37.1867 Info Logger has been shut down.
+2020-11-20 16:30:50.2379 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:30:50.2379 Info Loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-20 16:30:50.2379 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-20 16:30:50.2379 Info Auto loading assembly file: C:\Users\rabee\source\repos\TrainingApp\TrainingApp\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-20 16:30:50.2379 Info Message Template Auto Format enabled
+2020-11-20 16:30:50.2724 Info Adding target FileTarget(Name=allfile)
+2020-11-20 16:30:50.2862 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\rabee\source\repos\TrainingApp\TrainingApp/nLog.config
+2020-11-20 16:30:51.1498 Info AppDomain Shutting down. Logger closing...
+2020-11-20 16:30:51.1579 Info Logger has been shut down.
